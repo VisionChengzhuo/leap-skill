@@ -1,4 +1,4 @@
-# push-10x
+# leap
 
 一个 Claude Code skill：打断 agent 的 2% 惯性。
 
@@ -11,13 +11,13 @@
 ## 安装
 
 ```bash
-git clone https://github.com/VisionChengzhuo/push-10x-skill.git
-mkdir -p ~/.claude/skills && cp -r push-10x-skill/push-10x ~/.claude/skills/
+git clone https://github.com/VisionChengzhuo/leap-skill.git
+mkdir -p ~/.claude/skills && cp -r leap-skill/leap ~/.claude/skills/
 ```
 
 ## 用
 
-`/push-10x`，或直接说"大胆点 / 别循规蹈矩 / 想个 10x 的方案"。
+`/leap`，或直接说"大胆点 / 别循规蹈矩 / 想个 10x 的方案"。
 
 ## 它问的四件事
 
